@@ -1,0 +1,132 @@
+{
+  "checkedAt": "2026-10-16",
+  "method": "HEAD only; image bodies not downloaded",
+  "results": [
+    {
+      "character": "iruma",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/1/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "alice",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/2/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "clara",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/3/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "sabro",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/4/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "lied",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/5/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "jazz",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/6/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "keroli",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/7/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "elizabetta",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/8/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "kamui",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/9/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "picero",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/10/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "goemon",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/11/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "schneider",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/12/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "soi",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/17/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "ameri",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/13/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "kalego",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/14/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "sullivan",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/15/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "opera",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/16/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "poro",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/18/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "leidzi",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/19/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "razberry",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/20/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    },
+    {
+      "character": "gyari",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/21/stand-large.webp",
+      "status": 200,
+      "permission": "pending; not downloaded or used"
+    }
+  ]
+}

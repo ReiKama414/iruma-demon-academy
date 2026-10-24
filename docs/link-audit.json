@@ -1,0 +1,300 @@
+{
+  "checkedAt": "2026-10-16",
+  "note": "HTTP transport validation only. Source search independently confirms titles; no login, payment, or playback assertion.",
+  "results": [
+    {
+      "url": "https://www.nhk-character.com/chara/iruma/",
+      "status": 200,
+      "finalUrl": "https://www.nhk-character.com/chara/iruma/",
+      "title": "アニメ『魔入りました！入間くん』第４シリーズ公式サイト",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.nhk-character.com/chara/iruma/character",
+      "status": 200,
+      "finalUrl": "https://www.nhk-character.com/chara/iruma/character",
+      "title": "CHARACTER -アニメ『魔入りました！入間くん』第４シリーズ公式サイト-",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.nhk-character.com/chara/iruma/en/character",
+      "status": 200,
+      "finalUrl": "https://www.nhk-character.com/chara/iruma/en/character",
+      "title": "“Welcome to Demon School! Iruma-kun Season 4” Official Anime Website",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.nhk-character.com/chara/iruma/episode/ep24.html",
+      "status": 200,
+      "finalUrl": "https://www.nhk-character.com/chara/iruma/episode/ep24.html",
+      "title": "EPISODE 一番豪華な餞（はなむけ）を -アニメ『魔入りました！入間くん』第４シリーズ公式サイト-",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dfC1KCzXep4",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=dfC1KCzXep4",
+      "title": "入間同學入魔了！第四季 第24話【獻上最豪華的餞別】｜Muse木棉花 動畫 線上看 - YouTube",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.nhk-character.com/chara/iruma/news/movieproject.html",
+      "status": 200,
+      "finalUrl": "https://www.nhk-character.com/chara/iruma/news/movieproject.html",
+      "title": "NEWS 劇場版プロジェクト始動！ -アニメ『魔入りました！入間くん』第４シリーズ公式サイト-",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.nhk-character.com/chara/iruma/movie",
+      "status": 200,
+      "finalUrl": "https://www.nhk-character.com/chara/iruma/movie",
+      "title": "MOVIE -アニメ『魔入りました！入間くん』第４シリーズ公式サイト-",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.nhk-character.com/chara/iruma/onair",
+      "status": 200,
+      "finalUrl": "https://www.nhk-character.com/chara/iruma/onair",
+      "title": "ON AIR -アニメ『魔入りました！入間くん』第４シリーズ公式サイト-",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.e-muse.com/zh/animation/%E5%85%A5%E9%96%93%E5%90%8C%E5%AD%B8%E5%85%A5%E9%AD%94%E4%BA%86%EF%BC%81s4/",
+      "status": 200,
+      "finalUrl": "https://www.e-muse.com/zh/animation/%E5%85%A5%E9%96%93%E5%90%8C%E5%AD%B8%E5%85%A5%E9%AD%94%E4%BA%86%EF%BC%81s4/",
+      "title": "入間同學入魔了！S4 - 木棉花國際",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://kenproduction.co.jp/talent/32",
+      "status": 200,
+      "finalUrl": "https://kenproduction.co.jp/talent/32",
+      "title": "賢プロダクション [Kenproduction] 声優事務所・タレント事務所・声優プロダクション",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.oginext.com/women/takeuchi/",
+      "status": 200,
+      "finalUrl": "https://www.oginext.com/women/takeuchi/",
+      "title": "竹内 順子｜声優・タレントプロフィール｜尾木プロ THE NEXT",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.earlywing.co.jp/actordb/catea/talent_osakaryota",
+      "status": 200,
+      "finalUrl": "https://www.earlywing.co.jp/actordb/catea/talent_osakaryota",
+      "title": "タレント一覧 │ EARLY WING",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.nhk-character.com/chara/iruma/special/words/%E5%85%AD%E6%8C%87%E8%A1%86.html",
+      "status": 200,
+      "finalUrl": "https://www.nhk-character.com/chara/iruma/special/words/%E5%85%AD%E6%8C%87%E8%A1%86.html",
+      "title": "SPECIAL -アニメ『魔入りました！入間くん』第４シリーズ公式サイト-",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://ani.gamer.com.tw/animeVideo.php?sn=14907",
+      "status": 200,
+      "finalUrl": "https://ani.gamer.com.tw/animeVideo.php?sn=14907",
+      "title": "入間同學入魔了！ [23] 線上看 - 巴哈姆特動畫瘋",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://ani.gamer.com.tw/animeVideo.php?sn=22248",
+      "status": 200,
+      "finalUrl": "https://ani.gamer.com.tw/animeVideo.php?sn=22248",
+      "title": "入間同學入魔了！第二季 [1] 線上看 - 巴哈姆特動畫瘋",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://ani.gamer.com.tw/animeVideo.php?sn=32301",
+      "status": 200,
+      "finalUrl": "https://ani.gamer.com.tw/animeVideo.php?sn=32301",
+      "title": "入間同學入魔了！第三季 [13] 線上看 - 巴哈姆特動畫瘋",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://ani.gamer.com.tw/animeVideo.php?sn=13809",
+      "status": 200,
+      "finalUrl": "https://ani.gamer.com.tw/animeVideo.php?sn=13809",
+      "title": "入間同學入魔了！ [1] 線上看 - 巴哈姆特動畫瘋",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://ani.gamer.com.tw/animeVideo.php?sn=31658",
+      "status": 200,
+      "finalUrl": "https://ani.gamer.com.tw/animeVideo.php?sn=31658",
+      "title": "入間同學入魔了！第三季 [1] 線上看 - 巴哈姆特動畫瘋",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://ani.gamer.com.tw/animeVideo.php?sn=48407",
+      "status": 200,
+      "finalUrl": "https://ani.gamer.com.tw/animeVideo.php?sn=48407",
+      "title": "入間同學入魔了！第四季 [1] 線上看 - 巴哈姆特動畫瘋",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.myvideo.net.tw/details/3/6954",
+      "status": 200,
+      "finalUrl": "https://www.myvideo.net.tw/details/3/6954",
+      "title": "入間同學入魔了 線上看-爆笑喜劇-動漫-MyVideo",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.myvideo.net.tw/details/3/15837",
+      "status": 200,
+      "finalUrl": "https://www.myvideo.net.tw/details/3/15837",
+      "title": "入間同學入魔了 第二季 線上看-爆笑喜劇-動漫-MyVideo",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.myvideo.net.tw/details/3/21656",
+      "status": 200,
+      "finalUrl": "https://www.myvideo.net.tw/details/3/21656",
+      "title": "入間同學入魔了 第三季 線上看-爆笑喜劇-動漫-MyVideo",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.myvideo.net.tw/details/3/33007",
+      "status": 200,
+      "finalUrl": "https://www.myvideo.net.tw/details/3/33007",
+      "title": "入間同學入魔了 第四季 線上看-動作冒險-動漫-MyVideo",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.litv.tv/comic/watch/VOD00160833",
+      "status": 200,
+      "finalUrl": "https://www.litv.tv/comic/watch/VOD00160833",
+      "title": "入間同學入魔了！-第1集 惡魔學校的入間同學｜動漫線上看｜LiTV 立視線上影視",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.litv.tv/comic/watch/VOD00207810",
+      "status": 200,
+      "finalUrl": "https://www.litv.tv/comic/watch/VOD00207810",
+      "title": "入間同學入魔了！第二季｜動漫線上看｜LiTV 立視線上影視",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.litv.tv/comic/watch/VOD00269335",
+      "status": 200,
+      "finalUrl": "https://www.litv.tv/comic/watch/VOD00269335",
+      "title": "入間同學入魔了！第三季-第1集 問題兒童班的新學期｜動漫線上看｜LiTV 立視線上影視",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.litv.tv/drama/watch/VOD00398005",
+      "status": 200,
+      "finalUrl": "https://www.litv.tv/drama/watch/VOD00398005",
+      "title": "入間同學入魔了！第四季｜動漫線上看｜LiTV 立視線上影視",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://hamivideo.hinet.net/product/93892.do?cs=2",
+      "status": 200,
+      "finalUrl": "https://hamivideo.hinet.net/product/93892.do?cs=2",
+      "title": "入間同學入魔了 - 免費線上看 - 動漫 - 輕鬆幽默 | HamiVideo",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://hamivideo.hinet.net/product/148900.do?cs=2",
+      "status": 200,
+      "finalUrl": "https://hamivideo.hinet.net/product/148900.do?cs=2",
+      "title": "入間同學入魔了S2 - 免費線上看 - 動漫 - 輕鬆幽默 | HamiVideo",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://hamivideo.hinet.net/product/202852.do?cs=2",
+      "status": 200,
+      "finalUrl": "https://hamivideo.hinet.net/product/202852.do?cs=2",
+      "title": "入間同學入魔了S3 - 免費線上看 - 動漫 - 輕鬆幽默 | HamiVideo",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://hamivideo.hinet.net/product/322241.do?cs=2",
+      "status": 200,
+      "finalUrl": "https://hamivideo.hinet.net/product/322241.do?cs=2",
+      "title": "入間同學入魔了！S4 - 免費線上看 - 動漫 - 輕鬆幽默 | HamiVideo",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://video.friday.tw/anime/detail/1855",
+      "status": 200,
+      "finalUrl": "https://video.friday.tw/anime/detail/1855",
+      "title": "入間同學入魔了 第2季 - 動漫 線上看 - friDay影音",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://video.friday.tw/anime/detail/2619",
+      "status": 200,
+      "finalUrl": "https://video.friday.tw/anime/detail/2619",
+      "title": "入間同學入魔了 第3季 - 動漫 線上看 - friDay影音",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://video.friday.tw/anime/detail/4839",
+      "status": 200,
+      "finalUrl": "https://video.friday.tw/anime/detail/4839",
+      "title": "入間同學入魔了！第4季 - 動漫 線上看 - friDay影音",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.linetv.tw/drama/10842/eps/1",
+      "status": 200,
+      "finalUrl": "https://www.linetv.tw/drama/10842/eps/1",
+      "title": "入間同學入魔了第1集 惡魔學校的入間同學｜免費線上看｜LINE TV-精彩隨看",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.linetv.tw/drama/12120/eps/1",
+      "status": 200,
+      "finalUrl": "https://www.linetv.tw/drama/12120/eps/1",
+      "title": "入間同學入魔了 第2季第1集 戒指的祕密｜免費線上看｜LINE TV-精彩隨看",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.linetv.tw/drama/13892/eps/1",
+      "status": 200,
+      "finalUrl": "https://www.linetv.tw/drama/13892/eps/1",
+      "title": "入間同學入魔了 第3季第1集 問題兒童班的新學期｜免費線上看｜LINE TV-精彩隨看",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.linetv.tw/drama/22360",
+      "status": 200,
+      "finalUrl": "https://www.linetv.tw/drama/22360",
+      "title": "入間同學入魔了 第4季相關影音｜免費線上看｜LINE TV-精彩隨看",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL12UaAf_xzfr4xPjCCJlO-lYORZj0C018",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/playlist?list=PL12UaAf_xzfr4xPjCCJlO-lYORZj0C018",
+      "title": "入間同學入魔了 第2季｜Muse木棉花 動畫 線上看 - YouTube",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL12UaAf_xzfqN3eyl6PIwUzG-6OLz7wRK",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/playlist?list=PL12UaAf_xzfqN3eyl6PIwUzG-6OLz7wRK",
+      "title": "入間同學入魔了 第四季｜Muse木棉花 動畫 線上看 - YouTube",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://www.catchplay.com/tw",
+      "status": 200,
+      "finalUrl": "https://www.catchplay.com/tw",
+      "title": "CATCHPLAY+ 線上影音｜CATCHPLAY 強檔院線｜CATCHPLAY 電影台",
+      "result": "HTTP reachable; playback not verified"
+    },
+    {
+      "url": "https://video.friday.tw/",
+      "status": 200,
+      "finalUrl": "https://video.friday.tw/",
+      "title": "friDay影音- 強檔院線、韓國影劇、日劇、陸劇、動漫、布袋戲、新聞、0元強片線上看",
+      "result": "HTTP reachable; playback not verified"
+    }
+  ]
+}

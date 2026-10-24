@@ -1,0 +1,3 @@
+import type { NextConfig } from 'next';
+const config: NextConfig = { poweredByHeader: false, reactStrictMode: true, allowedDevOrigins: ['127.0.0.1'], images:{remotePatterns:[{protocol:'https',hostname:'ogre.natalie.mu',pathname:'/media/news/comic/2022/0822/bachiko.jpg'},{protocol:'https',hostname:'landing.akitashoten.co.jp',pathname:'/iruma-oc/faculty/images/faculty_img05.png'},{protocol:'https',hostname:'www.nhk-character.com',pathname:'/chara/iruma/wp/wp-content/**'},{protocol:'https',hostname:'i.ytimg.com',pathname:'/vi/**'},{protocol:'https',hostname:'www.gstatic.com',pathname:'/youtube/img/branding/**'}]} };
+export default config;

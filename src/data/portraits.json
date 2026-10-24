@@ -1,0 +1,568 @@
+{
+  "iruma": [
+    {
+      "id": "official-iruma",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/1/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-iruma-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/1/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-iruma-ch2",
+      "key": "ch2",
+      "label": "大貴族會禮服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/1/ch2-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-iruma-ch3",
+      "key": "ch3",
+      "label": "入美・惡斗露",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/1/ch3-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-iruma-ch4",
+      "key": "ch4",
+      "label": "入美・惡週期搖滾",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/1/ch4-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "alice": [
+    {
+      "id": "official-alice",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/2/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-alice-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/2/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "clara": [
+    {
+      "id": "official-clara",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/3/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-clara-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/3/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "sabro": [
+    {
+      "id": "official-sabro",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/4/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-sabro-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/4/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "lied": [
+    {
+      "id": "official-lied",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/5/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-lied-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/5/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-lied-ch2",
+      "key": "ch2",
+      "label": "琳蒂・惡斗露",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/5/ch2-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "jazz": [
+    {
+      "id": "official-jazz",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/6/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-jazz-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/6/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "keroli": [
+    {
+      "id": "official-keroli",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/7/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-keroli-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/7/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-keroli-ch2",
+      "key": "ch2",
+      "label": "克蘿姆・惡斗露",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/7/ch2-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-keroli-ch3",
+      "key": "ch3",
+      "label": "克蘿姆・禮服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/7/ch3-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "elizabetta": [
+    {
+      "id": "official-elizabetta",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/8/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-elizabetta-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/8/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "kamui": [
+    {
+      "id": "official-kamui",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/9/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-kamui-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/9/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "picero": [
+    {
+      "id": "official-picero",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/10/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-picero-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/10/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "goemon": [
+    {
+      "id": "official-goemon",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/11/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-goemon-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/11/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "schneider": [
+    {
+      "id": "official-schneider",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/12/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-schneider-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/12/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "soi": [
+    {
+      "id": "official-soi",
+      "key": "default",
+      "label": "巴比路斯制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/17/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-soi-ch",
+      "key": "ch",
+      "label": "音樂祭演出服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/17/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "ameri": [
+    {
+      "id": "official-ameri",
+      "key": "default",
+      "label": "學生會制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/13/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-ameri-ch",
+      "key": "ch",
+      "label": "大貴族會禮服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/13/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-ameri-ch2",
+      "key": "ch2",
+      "label": "梅莉・惡斗露",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/13/ch2-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "kalego": [
+    {
+      "id": "official-kalego",
+      "key": "default",
+      "label": "教師制服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/14/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "sullivan": [
+    {
+      "id": "official-sullivan",
+      "key": "default",
+      "label": "日常正裝",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/15/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-sullivan-ch",
+      "key": "ch",
+      "label": "大貴族會正裝",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/15/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "opera": [
+    {
+      "id": "official-opera",
+      "key": "default",
+      "label": "日常管家服",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/16/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    },
+    {
+      "id": "official-opera-ch",
+      "key": "ch",
+      "label": "社交正裝",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/16/ch-stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "poro": [
+    {
+      "id": "official-poro",
+      "key": "default",
+      "label": "音魔正裝",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/18/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "leidzi": [
+    {
+      "id": "official-leidzi",
+      "key": "default",
+      "label": "魔海學園服裝",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/19/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "razberry": [
+    {
+      "id": "official-razberry",
+      "key": "default",
+      "label": "地帝學院服裝",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/20/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "gyari": [
+    {
+      "id": "official-gyari",
+      "key": "default",
+      "label": "賈莉・搖滾惡斗露",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/themes/iruma2026/assets/img/character/21/stand-large.webp",
+      "source": "https://www.nhk-character.com/chara/iruma/character",
+      "kind": "standing",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "balam": [
+    {
+      "id": "alternative-balam",
+      "key": "default",
+      "label": "第13話・官方劇照",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/uploads/2026/06/img03-7.jpg",
+      "source": "https://www.nhk-character.com/chara/iruma/episode/ep13.html",
+      "kind": "still",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "kiriwo": [
+    {
+      "id": "alternative-kiriwo",
+      "key": "default",
+      "label": "第9話・官方劇照",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/uploads/2026/05/img02-4.jpg",
+      "source": "https://www.nhk-character.com/chara/iruma/episode/ep9.html",
+      "kind": "still",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "baal": [
+    {
+      "id": "alternative-baal",
+      "key": "default",
+      "label": "第23話・官方劇照",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/uploads/2026/09/img08-2.jpg",
+      "source": "https://www.nhk-character.com/chara/iruma/episode/ep23.html",
+      "kind": "still",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "ronove": [
+    {
+      "id": "alternative-ronove",
+      "key": "default",
+      "label": "第2話・官方劇照",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/uploads/2026/04/img07.jpg",
+      "source": "https://www.nhk-character.com/chara/iruma/episode/ep2.html",
+      "kind": "still",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "six-fingers": [
+    {
+      "id": "alternative-six-fingers",
+      "key": "default",
+      "label": "官方用語集・六指眾",
+      "url": "https://www.nhk-character.com/chara/iruma/wp/wp-content/uploads/2026/06/img14.jpg",
+      "source": "https://www.nhk-character.com/chara/iruma/special/words/%E5%85%AD%E6%8C%87%E8%A1%86.html",
+      "kind": "still",
+      "organization": "NHK Enterprises／第4シリーズ製作委員会",
+      "credit": "© 西修（秋田書店）／魔入りました！入間くん第4シリーズ製作委員会"
+    }
+  ],
+  "bachiko": [
+    {
+      "id": "alternative-bachiko",
+      "key": "default",
+      "label": "第三季・角色設定圖",
+      "url": "https://ogre.natalie.mu/media/news/comic/2022/0822/bachiko.jpg?imwidth=1280&imdensity=1",
+      "source": "https://natalie.mu/comic/news/490609",
+      "kind": "press",
+      "organization": "NHK・NEP／Comic Natalie 角色發表報導",
+      "credit": "© 西修（秋田書店）／NHK・NEP"
+    }
+  ],
+  "robin": [
+    {
+      "id": "alternative-robin",
+      "key": "default",
+      "label": "出版社・角色圖",
+      "url": "https://landing.akitashoten.co.jp/iruma-oc/faculty/images/faculty_img05.png",
+      "source": "https://landing.akitashoten.co.jp/iruma-oc/faculty/",
+      "kind": "publisher",
+      "organization": "秋田書店・50卷紀念官方網站",
+      "credit": "© 西修（秋田書店）"
+    }
+  ]
+}
