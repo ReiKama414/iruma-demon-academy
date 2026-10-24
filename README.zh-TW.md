@@ -9,8 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ReiKama414/iruma-demon-academy">Star</a>
-  ·
   <a href="https://reikama414.vercel.app/">個人網站</a>
   ·
   <a href="#快速開始">快速開始</a>
