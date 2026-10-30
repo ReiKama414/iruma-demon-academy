@@ -80,10 +80,10 @@ export const characterMemberships:Record<string,string[]> = {
   'six-fingers':['six-fingers'],
 };
 export const categoryNotes:Record<string,string> = {
-  discipline:'包含曾任風紀師團團長的羅諾威。',
-  'magic-tools':'包含現任成員與曾參與師團的相關人物。',
-  'crown-related':'包含前十三冠，以及與十三冠相關的人物。',
-  'family-barbatos':'包含巴巴托斯本家與相關分家人物。',
+  discipline:'包含曾任風紀師團團長的羅諾威',
+  'magic-tools':'包含現任成員與曾參與師團的相關人物',
+  'crown-related':'包含前十三冠，以及與十三冠相關的人物',
+  'family-barbatos':'包含巴巴托斯本家與相關分家人物',
 };
 const byId = new Map(characterCategories.map(category=>[category.id,category]));
 export function getCategory(id:string) { return byId.get(id); }

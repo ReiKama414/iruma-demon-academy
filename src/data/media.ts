@@ -16,7 +16,7 @@ export const pressArchive = {
   source:'https://www.pr-today.net/category/a00307/37082/',
   original:'https://www.pr-today.net/a00307/wp-content/uploads/sites/157/2022/09/01_%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB-2.png',
   credit:'©西修（秋田書店）／NHK・NEP',
-  permission:'發行者新聞稿明示：本件の画像をご紹介いただく際は以下の著作権表記をお願いいたします。僅在該活動回顧中完整呈現，不去背、拆分或當成第四季主視覺。',
+  permission:'發行者新聞稿明示：本件の画像をご紹介いただく際は以下の著作権表記をお願いいたします。僅在該活動回顧中完整呈現，不去背、拆分或當成第四季主視覺',
 };
 
 export type StageFeature = {heading:string[];tag:string;videoId:string;number:string;note:string;cast:string[];selected:string;variants:Record<string,string>;aliases:Record<string,string>};

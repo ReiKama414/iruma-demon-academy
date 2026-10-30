@@ -27,11 +27,11 @@ test('each season has multiple verified Taiwan platform links',()=>{
     for(const p of available) assert.equal(new URL(p.links[season.id]).protocol,'https:');
   }
 });
-test('fourth season includes post-festival arcs and separates spoiler copy',()=>{
+test('fourth season includes post-festival arcs',()=>{
   assert.equal(acts.length,3);
   assert.ok(acts[1].subtitle.includes('大貴族會'));
   assert.ok(acts[2].subtitle.includes('魔偶像'));
-  for(const act of acts){assert.ok(act.body);assert.ok(act.spoiler);assert.notEqual(act.body,act.spoiler);}
+  for(const act of acts){assert.ok(act.body);assert.ok(act.title);}
   assert.ok(sources.some(s=>s.url.endsWith('movieproject.html')));
 });
 

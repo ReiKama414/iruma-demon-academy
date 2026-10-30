@@ -18,16 +18,20 @@ export default function StandingArt({ character, enabled, className = '', sizes 
   const portrait = getPortrait(character.id, variant);
   const source = portrait?.url;
   const [failedSource, setFailedSource] = useState<string>();
+  const [loaded, setLoaded] = useState(false);
   const available = source && failedSource !== source;
+  const showImage = available && (enabled || loaded || eager);
 
   return <span className={`standing-art standing-art--${portrait?.kind || 'missing'} ${className}`}>
-    {enabled && available ? <Image
+    {showImage ? <Image
       src={source}
       alt={decorative ? '' : `${character.name}・${portrait.label}`}
       fill
       unoptimized
       sizes={sizes}
+      draggable={false}
       loading={eager ? 'eager' : 'lazy'}
+      onLoad={() => setLoaded(true)}
       onError={() => setFailedSource(source)}
       style={{ objectFit: 'contain' }}
     /> : <span className="standing-fallback" aria-hidden={decorative || !enabled}>
